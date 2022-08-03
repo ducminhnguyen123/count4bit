@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/verilog/project_sequential4bit/project_sequential4bit.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sim_1/new/cnt_tb.v,1654355470,verilog,,,,cnt_tb,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sim_1/new/tb_7thanh.v,1654174554,verilog,,,,tb_7thanh,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sim_1/new/tb_top.v,1654355642,verilog,,,,tb_top,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/4bit_count.v,1654352192,verilog,,F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/extract_bit.v,,counter,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/extract_bit.v,1654354975,verilog,,F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/led7thanh.v,,extract_bit,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/led7thanh.v,1654352543,verilog,,F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/sequential_top.v,,demux4to7,,,,,,,,
+F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sources_1/new/sequential_top.v,1654355327,verilog,,F:/verilog/project_sequential4bit/project_sequential4bit.srcs/sim_1/new/tb_top.v,,sequential_top,,,,,,,,

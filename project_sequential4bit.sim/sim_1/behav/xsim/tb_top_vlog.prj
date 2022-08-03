@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_sequential4bit.srcs/sources_1/new/4bit_count.v" \
+"../../../../project_sequential4bit.srcs/sources_1/new/extract_bit.v" \
+"../../../../project_sequential4bit.srcs/sources_1/new/led7thanh.v" \
+"../../../../project_sequential4bit.srcs/sources_1/new/sequential_top.v" \
+"../../../../project_sequential4bit.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
